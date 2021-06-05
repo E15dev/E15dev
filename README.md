@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @E15dev
+- 🌱 I’m currently learning c++
+- 📫 Discord : Bot64#7080

@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @E15dev
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning python
 - 📫 Discord : Bot64#7080

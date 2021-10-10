@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @E15dev
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 📫 Discord : Bot64#7080
+- 📘 languages : python, js, html / css

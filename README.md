@@ -9,6 +9,6 @@
 
 
 - 👋 Hi, I’m @E15dev
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning php
 - 📫 Discord : Bot64#7080
 - 📘 languages : python, js, html / css

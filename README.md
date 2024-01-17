@@ -1,1 +1,1 @@
-im XerwinXpl, i make music, <a href="https://xerwinxpl.bandcamp.com">bandcamp</a>. 
+Hi :3, im trying to learn stuff
